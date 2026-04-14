@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/icon.png" width="128" height="128" alt="GLMS Icon">
+
 # GLMS
 
 ### Genelec GLM Monitor for macOS
