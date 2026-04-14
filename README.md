@@ -2,7 +2,7 @@
 
 <img src="assets/icon.png" width="128" height="128" alt="GLMS Icon">
 
-# GLMS
+<img src="assets/glms-title.gif" width="300" alt="GLMS">
 
 ### Genelec GLM Monitor for macOS
 
